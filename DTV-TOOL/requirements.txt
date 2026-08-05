@@ -1,0 +1,6 @@
+opencv-python>=4.8.0
+easyocr>=1.7.0
+Pillow>=10.0.0
+matplotlib>=3.8.0
+folium>=0.17.0
+contextily>=1.4.0

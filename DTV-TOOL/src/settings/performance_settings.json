@@ -1,0 +1,14 @@
+{
+    "use_gpu": true,
+    "frame_skip": 15,
+    "use_sequential_read": true,
+    "use_process_parallel": true,
+    "tracking_reinit_on_failure": true,
+    "tracking_drift_detection": true,
+    "tracking_drift_factor": 1.5,
+    "tracking_template_matching": true,
+    "tracking_template_threshold": 0.7,
+    "tracking_template_margin_factor": 0.5,
+    "segment_tracking_enabled": true,
+    "segment_interval": 1800
+}

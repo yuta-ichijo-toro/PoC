@@ -1,0 +1,7 @@
+/data
+.venv
+.vscode
+.github/skills/loging-chat/temp/
+
+*.xlsx
+*.MP4
